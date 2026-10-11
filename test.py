@@ -1,2 +1,3 @@
 print("This is Ksr mart Project")
-print("I am learning Git and GItHub")
+print("I am learning Git branching and coloaboration")
+print("learning Git branching and coloaboration is very fun")
